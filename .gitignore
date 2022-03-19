@@ -33,3 +33,18 @@ yarn-error.log*
 
 # vercel
 .vercel
+
+# external file
+.secret
+.projectid
+
+# contract files
+.env
+coverage
+coverage.json
+typechain
+
+#Hardhat files
+cache
+artifacts
+
